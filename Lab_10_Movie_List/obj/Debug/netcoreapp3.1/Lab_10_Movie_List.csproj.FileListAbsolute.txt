@@ -1,0 +1,11 @@
+C:\Users\baxte\source\repos\Lab_10_Movie_List\Lab_10_Movie_List\bin\Debug\netcoreapp3.1\Lab_10_Movie_List.exe
+C:\Users\baxte\source\repos\Lab_10_Movie_List\Lab_10_Movie_List\bin\Debug\netcoreapp3.1\Lab_10_Movie_List.deps.json
+C:\Users\baxte\source\repos\Lab_10_Movie_List\Lab_10_Movie_List\bin\Debug\netcoreapp3.1\Lab_10_Movie_List.runtimeconfig.json
+C:\Users\baxte\source\repos\Lab_10_Movie_List\Lab_10_Movie_List\bin\Debug\netcoreapp3.1\Lab_10_Movie_List.runtimeconfig.dev.json
+C:\Users\baxte\source\repos\Lab_10_Movie_List\Lab_10_Movie_List\bin\Debug\netcoreapp3.1\Lab_10_Movie_List.dll
+C:\Users\baxte\source\repos\Lab_10_Movie_List\Lab_10_Movie_List\bin\Debug\netcoreapp3.1\Lab_10_Movie_List.pdb
+C:\Users\baxte\source\repos\Lab_10_Movie_List\Lab_10_Movie_List\obj\Debug\netcoreapp3.1\Lab_10_Movie_List.csprojAssemblyReference.cache
+C:\Users\baxte\source\repos\Lab_10_Movie_List\Lab_10_Movie_List\obj\Debug\netcoreapp3.1\Lab_10_Movie_List.AssemblyInfoInputs.cache
+C:\Users\baxte\source\repos\Lab_10_Movie_List\Lab_10_Movie_List\obj\Debug\netcoreapp3.1\Lab_10_Movie_List.AssemblyInfo.cs
+C:\Users\baxte\source\repos\Lab_10_Movie_List\Lab_10_Movie_List\obj\Debug\netcoreapp3.1\Lab_10_Movie_List.dll
+C:\Users\baxte\source\repos\Lab_10_Movie_List\Lab_10_Movie_List\obj\Debug\netcoreapp3.1\Lab_10_Movie_List.pdb
